@@ -28,4 +28,4 @@ Este es un proyecto de ejemplo desarrollado para la materia de **Programación M
 
 ## Captura de Pantalla
 
-*Puedes agregar una captura de pantalla de tu aplicación aquí para que se vea más profesional.*
+
