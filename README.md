@@ -1,6 +1,6 @@
 # Mi Edad Canina - Proyecto Android
 
-Este es un proyecto de ejemplo desarrollado para la materia de **Programación Móvil** de la carrera de **Gastronomía y Programación de Interfaces (GPI)** en el **INCADE**.
+Este es un proyecto de ejemplo desarrollado para la materia de **Programación Móvil** de la carrera de **Gesión en Programación e Innovación Tecnológica** en el **INCADE**.
 
 ## Descripción del Proyecto
 
